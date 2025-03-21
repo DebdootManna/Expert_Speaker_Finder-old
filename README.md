@@ -37,7 +37,7 @@ Expert Speaker Finder is a web-based platform designed for universities to disco
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/DebdootManna/Expert-Speaker-Finder.git`
+1. Clone the repository: `git clone https://github.com/DebdootManna/Expert_Speaker_Finder-old.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Configure database and environment variables
 4. Run the application: `npm start` or `yarn start`
